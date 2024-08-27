@@ -1,0 +1,12 @@
+name: xLobbyGames
+author: XenoDEV
+version: '1.1-Snapshot'
+api-version: 1.20
+
+main: de.xenodev.xLobbyGames
+
+commands:
+  setup:
+    description: Richte verschiedene Spielmodi ein
+  stats:
+    description: Schaue dir die Stats von verschiedene Spielmodi an

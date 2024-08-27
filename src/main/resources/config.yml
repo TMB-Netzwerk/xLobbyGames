@@ -1,0 +1,8 @@
+Settings:
+  Chatprefix: '&e&lGames'
+
+MySQL:
+  Host: 'localhost'
+  Database: 'changed_db'
+  Username: 'changed_user'
+  Password: 'changed_pw'
